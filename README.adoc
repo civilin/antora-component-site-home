@@ -1,0 +1,3 @@
+= About antora-component-site-home
+
+This Antora component provides the top-level home page and supporting information for the website. All other content is managed in subject-specific Antora components.

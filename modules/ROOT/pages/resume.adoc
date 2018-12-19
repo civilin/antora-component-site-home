@@ -1,0 +1,126 @@
+= Steven Brent Flatt
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+> I have 20 years technical writing experience, an affinity for technology, and like to solve problems creatively.
+
+== Experience
+
+=== Lead Technical Communicator
+
+*Genesys | Interactive Intelligence* +
+May 2016 – Present (9 months) | Indianapolis, Indiana
+
+Develop product documentation, ensuring that deliverables meet the requirements of stakeholders. Interact with product managers, team leads and engineering groups formed around product initiatives. Help e-learning teams adapt content for training purposes.
+
+Analyze information aggregated from subject matter experts. Refine requirements and timelines. Pre-plan structure, presentation order, and composition of deliverables. Guarantee that articles are accurate and relevant, using products as each target audience would. Write to serve each customer perspective and frame of reference.
+
+Look for information gaps and fill them. Work independently but collaborate with other writers on large projects. Adhere to standards and writing guidelines. Ask for help when needed. Maintain strong working relationships with key players in other departments and teams.
+
+=== Senior Technical Communicator (PureCloud)
+
+*Genesys | Interactive Intelligence* +
+February 2014 – May 2016 (3 years) | Indianapolis, Indiana
+
+Wrote content tailored for cloud-based contact centers. Documented quality management, scripting, and outbound dialing solutions. Authored help for iOS applications. Was proudly the first writer from Indianapolis to join the PureCloud documentation team in Raleigh, NC. Working together remotely, we created a web-based https://help.mypurecloud.com[resource center^] in WordPress that provides information support for a suite of telephony applications.
+
+Helped other writers use WordPress effectively. Implemented a practical way to reuse content. Pioneered use of bootstrap-based visual controls in documentation. Managed context help redirects and navigation menus. Enjoyed this effort, and working with gifted, creative people.
+
+=== Senior Technical Communicator (CIC)
+*Genesys | Interactive Intelligence* +
+April 1999 to February 2014 (14 years 11 months) | Indianapolis, Indiana
+
+Consulted with software developers to compose technical publications, web sites, and help systems. Wrote about Customer Interaction Center (CIC) -- a Windows-based telephony server that replaces proprietary PBX, IVR, and ACD hardware.
+
+Documented API's and CIC subsystems, such as Interaction Dialer (a predictive dialer), Interaction Scripter (call center automation), Interaction Attendant (interactive voice response utility), Interaction Monitor (network monitoring), Interaction EasyScripter (visual scripting for contact centers), Interaction Supervisor (real-time statistical monitoring), and the Interaction Center Extension Library (platform API).
+
+Single-sourced content for the web and print. Applied macro writing, template development, and authoring skills. Managed approximately 70 publications.
+
+=== Software Development Editor
+*Pearson Education* +
+October 1994 – April 1999 (4 years 7 months) | Carmel, Indiana
+
+Developed courseware for publishing imprints. Created two product lines: _Complete_ and _ExamGear_. Complete integrated hypertext-based training with skills testing. ExamGear focused on certification exam simulation.
+
+Visualized user interfaces. Wrote developer specifications. Hired and managed programming talent. Authored setup routines. Mastered CDROM's for SAMS, New Riders, Cisco Press and others. Developed product packaging, supporting web sites, and software demos. Acquired publication rights. Used macros to adapt book content. For example, I converted 8,000 pages of print content to electronic form (with artwork), and then context-mapped that content to thousands of test simulation questions.
+
+An earlier design was _Top Score Navigator_, a user interface that tracked a student’s progress through tests, reading assignments, and exercises.
+
+Microsoft Computer Professional magazine awarded MCSE Complete a 5-star rating. Following the release of MCSE Complete, I developed MCSE + Internet Complete, A+ Complete, and CCNA Complete. The ExamGear products were more advanced, since the software integrated web activities such as e-commerce and discussion forums within the product's user interface. I participated in the development of ExamGear courseware for TCP/IP, Networking Essentials, NT Workstation 4, NT Server, NT Server 4 Enterprise, IIS4, Windows 98, and Cisco certification.
+
+Prior to 1998, I developed approximately 200 companion CD-ROMs for computer books published by Sams, Que, and New Riders.
+
+=== Lotus Notes Administrator
+
+*Dun & Bradstreet Software* +
+March 1991 to October 1994 | Atlanta, Georgia
+
+Implemented a network of Lotus Notes servers, empowering a worldwide user base to collaborate, exchange e-mails, and share information prior to the advent of the Internet.
+
+Served as Notes systems administrator. Assembled servers. Negotiated license agreements to lower costs. Documented setup, troubleshooting, and maintenance procedures. Supported an active end-user community. Managed two Notes administrators. Wrote software that simplified installation of Lotus Notes on client PCs. Integrated external information sources to provide competitive information and knowledge bases. Set up gateways between Lotus Notes, mainframe mail systems, and the Internet. Completed Notes certification courses (Application Development I & II, Notes Administration I & II). Developed workflow applications. The system grew from 173 to 2,300 users during my tenure. There were 23 servers in the solution.
+
+// References are commented out in online version
+////
+== References
+
+*Greg Shultz* +
+Techical Communicator +
+(317) 501-3826 +
+Gregory.Schultz@inin.com
+
+*Pete Palanca* +
+Sr. Lab Specialist, CIC DevOps +
+(317) 503-8037 +
+ppalanca@gmail.com
+
+*Devon Fromke* +
+Carpenter +
+(317) 506-5242 +
+dfromke@indy.rr.com
+////
+
+== Online
+
+See my http://www.linkedin.com/pub/steve-flatt/28/b6/50[profile on LinkedIn^].
+
+== Education
+
+=== Parks College of Denver
+
+1979-1980 50 hours of computer programming instruction. GPA 4.0.
+
+=== University of Arizona
+
+1975-1978 Majored in creative and technical writing with minor computing emphasis. GPA 3.44.
+
+== Recommendations
+
+"Steve has a great combination of skills for a tech communicator. In addition to writing effective doc, he's also an excellent verbal communicator and listener. Steve was always acutely interested in how the products and documentation were working in the field, which was my main interaction with him in the workplace as I assisted with sales, deployment and consulting on the solutions at ININ.
+
+Sometimes your doc folks don't necessarily get how everything works technically in the big picture. Not the case with Steve – he's one of the more technical among technical communicators I've worked with, which is always a big plus because I was always confident he had a clear understanding of the workings of the solution and was always eager to get feedback."
+
+**Rick McGlinchey**, Consulting and Leadership Experience, Interactive Intelligence. November 28, 2011.
+
+'''
+
+"I used some of Steve's documents in the online courses that I developed and they were detailed and complete. If I had any questions, he was always prompt and courteous in getting back to me. I enjoy working with Steve and look forward to working with him again."
+
+**Kathleen Eisan**, Instructional Designer, Interactive Intelligence. June 1, 2011.
+
+'''
+
+"Steve has a rare ability to describe complex software with great clarity. He works well with developers and is always helpful. It has been my pleasure to work with him."
+
+**Dale Brubaker**, Senior Software Engineer (Team Lead), Interactive Intelligence. May 27, 2011.
+
+'''
+
+"I really appreciate Steve's ability to think outside the proverbial box and quickly come up with creative and innovative solutions. Working for a mainframe software company, it was easy to assume that microcomputers were never going to amount to much. Steve's vision on this topic was especially clear and he saw opportunities everywhere he looked to streamline business operations, improve information flow and raise the standard of personal empowerment to get things done.
+
+Steve was the author of a number of firsts within the company: first to champion a graphical user interface, first to prefer a Mac over an IBM PC, first to write a resume using desktop publishing technologies (it looked great!) and ultimately (and sadly for me) first to use the Internet to find a job."
+
+**Dan McGinn-Combs**, Network Services, D&B Software. August 17, 2011.

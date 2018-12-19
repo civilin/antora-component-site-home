@@ -1,0 +1,31 @@
+# Test Navigation Links
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+:nextpage: {page.next}
+
+## page.next
+
+{page.next}
+
+## page.previous
+
+{page.previous}
+
+## page.parent
+
+{page.parent}
+
+## nextpage variable
+{nextpage}
+
+{{page.title}}
+{{page.module}}
+{{page.next}}
+
+{page.title}
+{page.module}
+{page.next}

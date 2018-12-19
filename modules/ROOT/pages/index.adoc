@@ -1,0 +1,19 @@
+= Home
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+++++
+<div id="simple_hype_container" style="margin:0px;position:relative;width:468px;height:60px;overflow:hidden;" aria-live="polite">
+  <script type="text/javascript" charset="utf-8" src="../../site-home/latest/_attachments/simple.hyperesources/simple_hype_generated_script.js?19166"></script>
+</div>
+++++
+
+Use hype to build a snazzy home page here. Perhaps something like this:
+
+image:rotating-card-carousel.jpg[]
+
+See also: xref:landing-page-equal-height-cards.adoc[Cards of Equal Height]
