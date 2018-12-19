@@ -4,6 +4,7 @@
 * xref:ROOT:landing-page-equal-height-cards.adoc[Cards of Equal Height]
 * xref:ROOT:nav-links.adoc[Test Navigation Links]
 // * xref:what-this-site-is-about.adoc[What is this site about?]
+* xref:second-level-cards-test.adoc[Second level cards - Test]
 * xref:ROOT:multimedia-example.adoc[Multimedia Example]
 //** xref:docs-as-code.adoc[What is docs-as-code?]
 //** xref:adoc-module:why-asciidoc-is-better-than-markdown.adoc[Why AsciiDoc is better than Markdown]
