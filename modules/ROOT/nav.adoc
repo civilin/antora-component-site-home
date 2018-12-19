@@ -4,7 +4,9 @@
 * xref:ROOT:landing-page-equal-height-cards.adoc[Cards of Equal Height]
 * xref:ROOT:nav-links.adoc[Test Navigation Links]
 * xref:what-this-site-is-about.adoc[What is this site about?]
-
+* xref:ROOT:multimedia-example.adoc[Multimedia Example]
+// is ROOT needed?
+* xref:multimedia-example.adoc[Multimedia Example]
 //** xref:docs-as-code.adoc[What is docs-as-code?]
 //** xref:adoc-module:why-asciidoc-is-better-than-markdown.adoc[Why AsciiDoc is better than Markdown]
 //** xref:antora-module:why-antora-is-awesome.adoc[Why Antora is awesome]
