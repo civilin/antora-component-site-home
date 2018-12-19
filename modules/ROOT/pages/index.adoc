@@ -6,33 +6,39 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-Modify this page to display a card corresponding to each component.
+Modify this page to display a card about each component. Components include:
+
+* JAMstack - lessons learning using markup languages and static site generation
+* Permaculture - component about sustainable living
+* Writing - component about technical writing, fiction craft, non-fiction writing, and software tools
+* Recipes - tasteful recipes for the Instant Pot pressure cooker, and more.
+* The Survival List - items to have handy, should things go south
+* Junk Drawer - Blog posts and assorted stuff I feel obliged to host somewhere.
 
 ++++
   <!-- <div class="container"> -->
     <div class="card-deck">
         <div class="card" onclick="location.href='../../site-home/latest/adoc-module/what-is-asciidoc.html';" style="cursor: pointer;">
-            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/markup.png" alt="Card image cap">
+            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap">
               <div class="card-body">
-                  <h3 class="card-title">AsciiDoc</h3>
-                  <p class="card-text">Lightweight markup is quietly transforming writing. AsciiDoc is the way forward.</p>
-                  <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+                  <h3 class="card-title">JAMstack</h3>
+                  <p class="card-text">Lessons learned from using markup languages and static site generators.</p>
               </div>
         </div>
 
         <div class="card">
-            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap">
+            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Antora</h3>
-                <p class="card-text">My experience building this site with Antora, the static site generator for AsciiDoc.</p>
+                <h3 class="card-title">Permaculture</h3>
+                <p class="card-text">Using permaculture, we can feed humans and wildlife, and restore the Earth's fertility and natural abundance.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap">
+            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/writing.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Recipes</h3>
-                <p class="card-text">Tasteful recipes for the Instant Pot pressure cooker.</p>
+                <h3 class="card-title">Writing</h3>
+                <p class="card-text">Thoughts about the writing craft, and applying Scrivener to writing projects.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
@@ -40,18 +46,18 @@ Modify this page to display a card corresponding to each component.
     <br>
     <div class="card-deck">
         <div class="card">
-            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/writing.png" alt="Card image cap">
+            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Writing</h3>
-                <p class="card-text">Thoughts about the writing craft, and applying Scrivener to all sorts of projects.</p>
+                <h3 class="card-title">Recipes</h3>
+                <p class="card-text">Tasteful recipes for the Instant Pot pressure cooker, and more.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap">
+            <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Sustainable Living</h3>
-                <p class="card-text">Using permaculture, we can feed humans and wildlife, and restore Earth's fertility and natural abundance.</p>
+                <h3 class="card-title">The Survival List</h3>
+                <p class="card-text">Essential items to have on hand, should things go south.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
@@ -59,7 +65,7 @@ Modify this page to display a card corresponding to each component.
             <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Junk Drawer</h3>
-                <p class="card-text">Here's assorted stuff I felt obliged to put somewhere.</p>
+                <p class="card-text">Blog posts and assorted stuff I feel obliged to host somewhere.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
