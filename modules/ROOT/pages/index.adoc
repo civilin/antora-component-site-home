@@ -49,7 +49,7 @@ Modify this page to display a card about each component. Components include:
         <div class="card">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Recipes</h3>
+                <h3 class="card-title">Cooking</h3>
                 <p class="card-text">Tasteful recipes for the Instant Pot pressure cooker, and more.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
