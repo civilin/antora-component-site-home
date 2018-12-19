@@ -8,7 +8,7 @@ endif::[]
 
 ++++
 <div id="simple_hype_container" style="margin:0px;position:relative;width:468px;height:60px;overflow:hidden;" aria-live="polite">
-  <script type="text/javascript" charset="utf-8" src="../../site-home/latest/_attachments/simple.hyperesources/simple_hype_generated_script.js?19166"></script>
+  <script type="text/javascript" charset="utf-8" src="../../site-home/latest/_images/simple.hyperesources/simple_hype_generated_script.js?19166"></script>
 </div>
 ++++
 
