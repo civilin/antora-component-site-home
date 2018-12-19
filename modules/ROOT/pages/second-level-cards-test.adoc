@@ -25,7 +25,7 @@ Second-level cards correspond to a section of related articles in the TOC. Link 
             <div class="card-body">
                 <h3 class="card-title">Antora</h3>
                 <hr>
-                <p class="card-text">UBuild a website from AsciiDoc files.</p>
+                <p class="card-text">Use Antora to generate a website from AsciiDoc files.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
