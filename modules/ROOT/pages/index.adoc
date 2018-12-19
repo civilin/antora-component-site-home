@@ -6,16 +6,6 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-////
-Modify this page to display a card about each component. Components include:
-
-* JAMstack - lessons learning using markup languages and static site generation
-* Permaculture - component about sustainable living
-* Writing - component about technical writing, fiction craft, non-fiction writing, and software tools
-* Recipes - tasteful recipes for the Instant Pot pressure cooker, and more.
-* The Survival List - items to have handy, should things go south
-* Junk Drawer - Blog posts and assorted stuff I feel obliged to host somewhere.
-////
 ++++
   <!-- <div class="container"> -->
     <div class="card-deck">
@@ -49,14 +39,14 @@ Modify this page to display a card about each component. Components include:
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Cooking</h3>
-                <p class="card-text">Tasteful recipes for the Instant Pot pressure cooker, and more.</p>
+                <p class="card-text">Recipes for the Instant Pot pressure cooker.</p>
             </div>
         </div>
         <div class="card">
             <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">The Survival List</h3>
-                <p class="card-text">Essential items to have on hand, should things go south.</p>
+                <p class="card-text">Essential items to have on hand, before you need them.</p>
             </div>
         </div>
         <div class="card">
