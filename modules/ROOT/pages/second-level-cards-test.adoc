@@ -6,9 +6,9 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-Second-level cards correspond to a section of related articles in the TOC. Link cards to "About pages" with child topics in a section.  +
-
+Second-level cards correspond to a section of related articles in the TOC. Link cards to "About pages" with child topics in a section.
 ++++
+<br>
   <!-- <div class="container"> -->
     <div class="card-deck">
         <div class="card" onclick="location.href='../../site-home/latest/adoc-module/what-is-asciidoc.html';" style="cursor: pointer;">
