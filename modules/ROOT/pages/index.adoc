@@ -13,7 +13,7 @@ endif::[]
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap">
               <div class="card-body">
                   <h3 class="card-title">JAMstack</h3>
-                  <p class="card-text">Learn about web design, lightweight markup languages and static site generators.</p>
+                  <p class="card-text">Learn about web design, markup languages and static site generators.</p>
               </div>
         </div>
 
