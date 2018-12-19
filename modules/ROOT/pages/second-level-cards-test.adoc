@@ -42,6 +42,7 @@ endif::[]
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap"> -->
             <div class="card-body">
                 <h3 class="card-title">Title 2</h3>
+                <img class="card-img-top img-fluid" src="../../site-home/latest/_images/green-hands.png" alt="Card image cap">
                 <hr>
                 <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum.</p>
             </div>
