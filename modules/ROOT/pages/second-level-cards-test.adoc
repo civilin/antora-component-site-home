@@ -13,6 +13,7 @@ endif::[]
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap"> -->
               <div class="card-body">
                   <h3 class="card-title">AsciiDoc</h3>
+                  <hr>
                   <p class="card-text">Learn to write in AsciiDoc today.</p>
               </div>
         </div>
@@ -21,6 +22,7 @@ endif::[]
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap"> -->
             <div class="card-body">
                 <h3 class="card-title">Antora</h3>
+                <hr>
                 <p class="card-text">UBuild a website from AsciiDoc files.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
@@ -28,7 +30,8 @@ endif::[]
         <div class="card">
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/writing.png" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">This is a long Title</h3>
+                <h3 class="card-title">A Longer Title</h3>
+                <hr>
                 <p class="card-text">Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
             </div>
         </div>
