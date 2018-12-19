@@ -6,7 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-Second-level cards correspond to a section of related articles in the TOC. A card  "About pages" that list multiple topics in a section
+Second-level cards correspond to a section of related articles in the TOC. Link cards to "About pages" with child topics in a section. +
 ++++
   <!-- <div class="container"> -->
     <div class="card-deck">
