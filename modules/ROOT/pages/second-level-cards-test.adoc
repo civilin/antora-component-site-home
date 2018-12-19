@@ -51,7 +51,7 @@ Second-level cards correspond to a section of related articles in the TOC. A car
         <div class="card">
             <div class="card-body">
                 <h3 class="card-title">Title 3</h3>
-                <img class="card-img-top img-fluid" src="../../site-home/latest/_images/music.png" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="../../site-home/latest/_images/screen-cap.png" alt="Card image cap">
                 <hr>
                 <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.</p>
             </div>
