@@ -23,7 +23,7 @@ Modify this page to display a card about each component. Components include:
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap">
               <div class="card-body">
                   <h3 class="card-title">JAMstack</h3>
-                  <p class="card-text">Lessons learned building websites using markup languages with static site generators.</p>
+                  <p class="card-text">Lessons learned using lightweight markup to generate static web sites.</p>
               </div>
         </div>
 
