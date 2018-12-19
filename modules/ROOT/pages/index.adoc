@@ -17,3 +17,5 @@ Use hype to build a snazzy home page here. Perhaps something like this:
 image:rotating-card-carousel.jpg[]
 
 See also: xref:landing-page-equal-height-cards.adoc[Cards of Equal Height]
+
+#include xref:site-home:ROOT:what-this-site-is-about.adoc[] 
