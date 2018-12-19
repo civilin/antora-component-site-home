@@ -49,7 +49,7 @@ Second-level cards correspond to a section of related articles in the TOC. A car
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/logo-asciidoctor.png" alt="Card image cap">
+            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/asciidoctor-logo.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Title 3</h3>
                 <hr>
