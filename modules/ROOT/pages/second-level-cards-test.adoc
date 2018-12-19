@@ -28,7 +28,7 @@ endif::[]
             </div>
         </div>
         <div class="card">
-            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/green-hands.jpg" alt="Card image cap">
+            <img class="card-img-top img-fluid" src="../../site-home/latest/_images/green-hands.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">A Longer Title</h3>
                 <hr>
