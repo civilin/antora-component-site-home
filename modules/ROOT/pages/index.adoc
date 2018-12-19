@@ -6,6 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
+////
 Modify this page to display a card about each component. Components include:
 
 * JAMstack - lessons learning using markup languages and static site generation
@@ -14,7 +15,7 @@ Modify this page to display a card about each component. Components include:
 * Recipes - tasteful recipes for the Instant Pot pressure cooker, and more.
 * The Survival List - items to have handy, should things go south
 * Junk Drawer - Blog posts and assorted stuff I feel obliged to host somewhere.
-
+////
 ++++
   <!-- <div class="container"> -->
     <div class="card-deck">
