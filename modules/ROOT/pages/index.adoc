@@ -24,7 +24,7 @@ Modify this page to display a card about each component. Components include:
               <div class="card-body">
                   <h3 class="card-title">JAMstack</h3>
                   <p class="card-text">Learn about lightweight markup languages and static site generators.</p>
-                  <p class="card-text"><small class="text-muted">AsciiDoc, Markdown, Antora, Jekyll, Hugo...</small></p> 
+                  <p class="card-text"><small class="text-muted"><br>AsciiDoc, Antora, Jekyll, Hugo...</small></p> 
               </div>
         </div>
 
