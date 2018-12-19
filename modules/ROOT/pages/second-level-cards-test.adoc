@@ -13,6 +13,7 @@ endif::[]
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap"> -->
               <div class="card-body">
                   <h3 class="card-title">AsciiDoc</h3>
+                  <hr>
                   <p class="card-text">Learn to write in AsciiDoc today.</p>
               </div>
         </div>
@@ -21,6 +22,7 @@ endif::[]
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap"> -->
             <div class="card-body">
                 <h3 class="card-title">Antora</h3>
+                <hr>
                 <p class="card-text">UBuild a website from AsciiDoc files.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
@@ -28,8 +30,9 @@ endif::[]
         <div class="card">
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/writing.png" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">Writing</h3>
-                <p class="card-text">Thoughts about writing craft, and applying Scrivener to writing projects.</p>
+                <h3 class="card-title">Title</h3>
+                <hr>
+                <p class="card-text">Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
             </div>
         </div>
     </div>
@@ -38,22 +41,25 @@ endif::[]
         <div class="card">
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">Cooking</h3>
-                <p class="card-text">Recipes for the Instant Pot pressure cooker.</p>
+                <h3 class="card-title">Title 2</h3>
+                <hr>
+                <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum.</p>
             </div>
         </div>
         <div class="card">
             <!-- <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">The Survival List</h3>
-                <p class="card-text">Essential items to have on hand, before you need them.</p>
+                <h3 class="card-title">Title 3</h3>
+                <hr>
+                <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.</p>
             </div>
         </div>
         <div class="card">
             <!-- <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">Junk Drawer</h3>
-                <p class="card-text">Blog posts and assorted stuff I feel obliged to host somewhere.</p>
+                <h3 class="card-title">Title 4</h3>
+                <hr>
+                <p class="card-text">Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
             </div>
         </div>
     </div>
