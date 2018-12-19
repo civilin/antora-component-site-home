@@ -23,7 +23,7 @@ Modify this page to display a card about each component. Components include:
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap">
               <div class="card-body">
                   <h3 class="card-title">JAMstack</h3>
-                  <p class="card-text">Lessons learned from using markup languages and static site generators.</p>
+                  <p class="card-text">Lessons learned building websites using markup languages with static site generators.</p>
               </div>
         </div>
 
@@ -31,7 +31,7 @@ Modify this page to display a card about each component. Components include:
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Permaculture</h3>
-                <p class="card-text">Using permaculture, we can feed humans and wildlife, and restore the Earth's fertility and natural abundance.</p>
+                <p class="card-text">Using permaculture, we can feed humans and wildlife, while restoring the Earth's fertility and natural abundance.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
