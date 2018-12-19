@@ -7,38 +7,6 @@ endif::[]
 :idseparator: -
 
 ++++
-<div class="row">
-  <div class="column">
-    <div class="card">
-    <p style="text-align:center;"><strong>AsciiDoc</strong></p>
-    <hr>
-    <p>Learn to write in AsciiDoc today</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-        <p style="text-align:center;"><strong>Antora</strong></p>
-      <hr>
-      <p>Build a website from AsciiDoc files</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <p style="text-align:center;"><strong>Sustainable Living</strong></p>
-    <hr>
-    <p>Things we can All do to live better</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <p style="text-align:center;"><strong>Blog</strong></p>
-    <hr>
-    <p>Articles and Opinions</p>
-    </div>
-  </div>
-</div>
-
-++++
   <!-- <div class="container"> -->
     <div class="card-deck">
         <div class="card" onclick="location.href='../../site-home/latest/adoc-module/what-is-asciidoc.html';" style="cursor: pointer;">
@@ -406,6 +374,7 @@ endif::[]
 </style>
 
 ++++
+
 // Bootstrap 4 Cards of Equal Height
 //This landing page uses Bootstrap 4 to display cards of equal height. Cards in each row grow to the height of the tallest card.
 // * https://www.codeply.com/go/x91w5Cl6ip/bootstrap-4-card-deck-equal-height
