@@ -30,7 +30,7 @@ endif::[]
         <div class="card">
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/writing.png" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">Title</h3>
+                <h3 class="card-title">This is a long Title</h3>
                 <hr>
                 <p class="card-text">Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
             </div>
@@ -118,7 +118,7 @@ endif::[]
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
-  /* Style the counter cards */
+  /* Special styling for 2nd level landing page cards */
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   text-align: left;
