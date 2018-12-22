@@ -17,7 +17,7 @@ endif::[]
               </div>
         </div>
 
-        <div class="card">
+        <div class="card" onclick="location.href='../../permaculture/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Permaculture</h3>
@@ -25,7 +25,7 @@ endif::[]
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
-        <div class="card">
+        <div class="card" onclick="location.href='../../writing/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/writing.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Writing</h3>
@@ -35,21 +35,21 @@ endif::[]
     </div>
     <br>
     <div class="card-deck">
-        <div class="card">
+        <div class="card" onclick="location.href='../../recipes/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Cooking</h3>
                 <p class="card-text">Recipes for the Instant Pot pressure cooker.</p>
             </div>
         </div>
-        <div class="card">
+        <div class="card" onclick="location.href='../../survival-list/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">The Survival List</h3>
                 <p class="card-text">Essential items to have on hand, before you need them.</p>
             </div>
         </div>
-        <div class="card">
+        <div class="card" onclick="location.href='../../junk-drawer/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Junk Drawer</h3>
