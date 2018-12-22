@@ -1,6 +1,6 @@
 = Tabs example
 
-This page shows how to implement tab pages using tab navigation from https://www.w3schools.com/w3css/w3css_tabulators.asp[w3schools.com].
+This page shows how to implement tab pages using tab navigation from https://www.w3schools.com/w3css/w3css_tabulators.asp[w3schools.com^].
 
 ++++
 <br>
