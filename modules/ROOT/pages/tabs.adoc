@@ -3,6 +3,7 @@
 This page shows how to implement tab pages using tab navigation from https://www.w3schools.com/w3css/w3css_tabulators.asp[w3schools.com].
 
 ++++
+<br>
 <button class="tablink" onclick="openPage('Home', this, 'gray')">Home</button>
 <button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
 <button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
