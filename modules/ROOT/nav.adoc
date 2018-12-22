@@ -1,5 +1,5 @@
-//.Welcome
 * xref:ROOT:index.adoc[Home]
+.Page prototypes
 ** xref:ROOT:landing-page.adoc[Landing Page Example]
 ** xref:ROOT:landing-page-equal-height-cards.adoc[Cards of Equal Height]
 ** xref:ROOT:nav-links.adoc[Test Navigation Links]
