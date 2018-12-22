@@ -9,7 +9,7 @@ endif::[]
 ++++
   <!-- <div class="container"> -->
     <div class="card-deck">
-        <div class="card" onclick="location.href='../../site-home/latest/adoc-module/what-is-asciidoc.html';" style="cursor: pointer;">
+        <div class="card" onclick="location.href='../../jamstack/latest/ROOT/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/web-design.png" alt="Card image cap">
               <div class="card-body">
                   <h3 class="card-title">JAMstack</h3>
