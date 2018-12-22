@@ -7,7 +7,7 @@
 *** xref:ROOT:tabs.adoc[Tabs Example]
 *** xref:second-level-cards-test.adoc[Second level cards - Test]
 *** xref:ROOT:multimedia-example.adoc[Multimedia Example]
-** Components
+** Subjects discussed here
 *** xref:jamstack:ROOT:index.adoc[Jamstack Component]
 //** xref:docs-as-code.adoc[What is docs-as-code?]
 //** xref:adoc-module:why-asciidoc-is-better-than-markdown.adoc[Why AsciiDoc is better than Markdown]
