@@ -11,6 +11,7 @@
 *** xref:jamstack:ROOT:index.adoc[Jamstack]
 *** xref:cooking:ROOT:index.adoc[Cooking]
 *** xref:permaculture:ROOT:index.adoc[Permaculture]
+*** xref:writing:ROOT:index.adoc[Writing]
 //** xref:docs-as-code.adoc[What is docs-as-code?]
 //** xref:adoc-module:why-asciidoc-is-better-than-markdown.adoc[Why AsciiDoc is better than Markdown]
 //** xref:antora-module:why-antora-is-awesome.adoc[Why Antora is awesome]
