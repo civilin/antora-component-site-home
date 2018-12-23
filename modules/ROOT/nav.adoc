@@ -6,7 +6,7 @@
 // * xref:what-this-site-is-about.adoc[What is this site about?]
 *** xref:ROOT:tabs.adoc[Tabs Example]
 *** xref:second-level-cards-test.adoc[Second level cards - Test]
-*** xref:ROOT:multimedia-example.adoc[Multimedia Example]
+// *** xref:ROOT:multimedia-example.adoc[Multimedia Example]
 ** Subjects discussed here
 *** xref:jamstack:ROOT:index.adoc[Jamstack]
 *** xref:cooking:ROOT:index.adoc[Cooking]
