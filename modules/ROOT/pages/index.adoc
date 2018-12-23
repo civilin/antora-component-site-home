@@ -35,7 +35,7 @@ endif::[]
     </div>
     <br>
     <div class="card-deck">
-        <div class="card" onclick="location.href='../../recipes/latest/index.html';" style="cursor: pointer;">
+        <div class="card" onclick="location.href='../../cooking/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap">
             <div class="card-body">
                 <h3 class="card-title">Cooking</h3>
