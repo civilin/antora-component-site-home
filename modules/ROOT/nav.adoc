@@ -1,4 +1,11 @@
 * xref:ROOT:index.adoc[Home]
+** Subjects discussed here
+*** xref:jamstack:ROOT:index.adoc[JAMstack]
+*** xref:cooking:ROOT:index.adoc[Cooking]
+*** xref:permaculture:ROOT:index.adoc[Permaculture]
+*** xref:writing:ROOT:index.adoc[Writing]
+*** xref:survival-list:ROOT:index.adoc[Survival List]
+*** xref:junk-drawer:ROOT:index.adoc[Junk Drawer]
 ** Page prototypes
 *** xref:ROOT:landing-page.adoc[Landing Page Example]
 *** xref:ROOT:landing-page-equal-height-cards.adoc[Cards of Equal Height]
@@ -6,46 +13,8 @@
 // * xref:what-this-site-is-about.adoc[What is this site about?]
 *** xref:ROOT:tabs.adoc[Tabs Example]
 *** xref:second-level-cards-test.adoc[Second level cards - Test]
-// *** xref:ROOT:multimedia-example.adoc[Multimedia Example]
-** Subjects discussed here
-*** xref:jamstack:ROOT:index.adoc[Jamstack]
-*** xref:cooking:ROOT:index.adoc[Cooking]
-*** xref:permaculture:ROOT:index.adoc[Permaculture]
-*** xref:writing:ROOT:index.adoc[Writing]
-*** xref:survival-list:ROOT:index.adoc[Survival List]
-*** xref:junk-drawer:ROOT:index.adoc[Junk Drawer]
-//** xref:docs-as-code.adoc[What is docs-as-code?]
-//** xref:adoc-module:why-asciidoc-is-better-than-markdown.adoc[Why AsciiDoc is better than Markdown]
-//** xref:antora-module:why-antora-is-awesome.adoc[Why Antora is awesome]
-////
-.Learn AsciiDoc Today
-// These articles come from the adoc-module of site-home-component
-* xref:adoc-module:what-is-asciidoc.adoc[What is AsciiDoc?]
-* xref:adoc-module:editors.adoc[Editors]
-// Basic Markup
-* xref:adoc-module:basic-markup.adoc[Basic Markup]
-** xref:adoc-module:document-title.adoc[Document Title]
-** xref:adoc-module:headings.adoc[Headings]
-** xref:adoc-module:paragraphs.adoc[Paragraphs]
-** xref:adoc-module:formatted-text.adoc[Formatted Text]
-** xref:adoc-module:admonitions.adoc[Admonitions]
-** xref:adoc-module:admonition-blocks.adoc[Admonition Blocks]
-** xref:adoc-module:block-titles.adoc[Block Titles (sub-headings)]
-** xref:adoc-module:explicit-identifiers.adoc[Explicit identifiers]
-** xref:adoc-module:link-to-explicit-identifiers.adoc[Link to explicit identifiers]
-// after everything else, link to docs
-* xref:adoc-module:asciidoc-doc-links.adoc[AsciiDoc Documentation]
-
-.Demo Components
-* xref:component-a:ROOT:inline-text-formatting.adoc[Component A]
-* xref:component-b:ROOT:index.adoc[Component B]
-
-.Recipes
-* xref:recipes:ROOT:about_recipes.adoc[About Recipes]
-
-.Bits and Bytes
-* xref:resume.adoc[My resume]
+** Bits and Bytes
+//* xref:resume.adoc[My resume]
 //* xref:iframe.adoc[Using iframes in AsciiDoc]
 * link:{attachmentsdir}/why-antora.pdf[Why Antora Is The Leading Technical Writing Platform^]
 * https://docs.antora.org/[image:ext-link.png[]Antora documentation^]
-////
