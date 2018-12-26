@@ -5,7 +5,6 @@ endif::[]
 // Settings
 :idprefix:
 :idseparator: -
-:notitle: true
 
 > I have 20 years technical writing experience, an affinity for technology, and like to solve problems creatively.
 
