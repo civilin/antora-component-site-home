@@ -8,9 +8,9 @@ endif::[]
 
 image:steve.png[float="right",align="left"] Greetings, spinning blue world. My name is Steve. I’m a software technical writer. This site is a sandbox where I test things I am learning or showcase work I have done. Here I will _gradually_ post experiments with HTML 5, animation, static site generation, lightweight markup, Scrivener, articles about sustainable living and other subjects that interest me or aid in my xref:site-home:ROOT:resume.adoc[work].
 
-I created this site using https://antora.org[Antora^], the static site generator for xref:jamstack:asciidoc:what-is-asciidoc.adoc[AsciiDoc] files. See xref:antora-module:why-antora-is-awesome.adoc[Antora is awesome].
+I created this site using https://antora.org[Antora^], the static site generator for xref:jamstack:asciidoc:about-asciidoc.adoc[AsciiDoc] files. See xref:jamstack:antoras:why-antora-is-awesome.adoc[Antora is awesome].
 
-My goal is to become proficient with web design. I can't master every technology of the web. But I can achieve professional results by focusing on key technologies that mesh beautifully--AsciiDoc and Antora, for example. This site, where I do what I’m not paid to…is the means to that end. In fact, _this entire site is a demo_, to demonstrate that non-trivial websites can be created from AsciiDoc text files, freeing writers like me to focus on content development, using the xref:site-home:ROOT:docs-as-code.adoc[docs-as-code] approach.
+My goal is to become proficient with web design. I can't master every technology of the web. But I can achieve professional results by focusing on key technologies that mesh beautifully--AsciiDoc and Antora, for example. This site, where I do what I’m not paid to…is the means to that end. In fact, _this entire site is a demo_, to demonstrate that non-trivial websites can be created from AsciiDoc text files, freeing writers like me to focus on content development, using the xref:jamstack:ROOT:docs-as-code.adoc[docs-as-code] approach.
 
 Why did I name this site [text-info]`never until now`? I’m self taught. Studying a little each day pays off. Never until now could I be this creative or productive. By creating this site, I hope to leave tidbits of lessons learned for similarly minded people, while I:
 
