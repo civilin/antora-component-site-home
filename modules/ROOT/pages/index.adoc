@@ -380,5 +380,4 @@ endif::[]
 // * https://getbootstrap.com/docs/4.1/getting-started/download/
 
 // include::./what-this-site-is-about.adoc[]
-
-include::latest@site-home:what-this-site-is-about.adoc[]
+#include::latest@site-home:ROOT:what-this-site-is-about.adoc[]
