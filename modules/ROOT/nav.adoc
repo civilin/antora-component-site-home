@@ -1,5 +1,5 @@
 * xref:ROOT:index.adoc[Home]
-** xref:ROOT:what-this-site-is-about.adoc[This site is about:]
+** xref:ROOT:what-this-site-is-about.adoc[What this site is about]
 ** xref:jamstack:ROOT:index.adoc[JAMstack]
 ** xref:cooking:ROOT:index.adoc[Cooking]
 ** xref:permaculture:ROOT:index.adoc[Permaculture]
