@@ -379,6 +379,6 @@ endif::[]
 // * https://www.codeply.com/go/x91w5Cl6ip/bootstrap-4-card-deck-equal-height
 // * https://getbootstrap.com/docs/4.1/getting-started/download/
 
-// include::./what-this-site-is-about.adoc[]
+include::./what-this-site-is-about.adoc[]
 // include::latest@site-home:what-this-site-is-about.adoc[]
-include::latest@site-home:ROOT:partial$what-this-site-is-about.adoc[]
+//include::latest@site-home:ROOT:partial$what-this-site-is-about.adoc[]
