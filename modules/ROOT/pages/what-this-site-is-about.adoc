@@ -6,7 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-image:steve.png[float="right",align="left"] Greetings, spinning blue world. My name is Steve Flatt. I’m a software technical writer. This site is a sandbox where I test things I am learning or showcase work I have done. Here I will _gradually_ post experiments with HTML 5, animation, static site generation, lightweight markup, Scrivener, articles about sustainable living and other subjects that interest me or aid in my xref:site-home:ROOT:resume.adoc[work].
+image:steve.png[float="right",align="left"] Greetings, spinning blue world. My name is Steve. I’m a software technical writer. This site is a sandbox where I test things I am learning or showcase work I have done. Here I will _gradually_ post experiments with HTML 5, animation, static site generation, lightweight markup, Scrivener, articles about sustainable living and other subjects that interest me or aid in my xref:site-home:ROOT:resume.adoc[work].
 
 I created this site using https://antora.org[Antora^], the static site generator for xref:adoc-module:what-is-asciidoc.adoc[AsciiDoc] files. See xref:antora-module:why-antora-is-awesome.adoc[Antora is awesome].
 
