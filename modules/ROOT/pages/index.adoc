@@ -381,4 +381,4 @@ endif::[]
 
 // include::./what-this-site-is-about.adoc[]
 
-include::latest@site-home:what-this-site-is-about.adoc[]
+include::latest@site-home:ROOT:what-this-site-is-about.adoc[]
