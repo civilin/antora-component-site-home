@@ -1,12 +1,13 @@
-= Steve Resume
+= My Resume
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 // Settings
 :idprefix:
 :idseparator: -
+:notitle:
 
-> I have over 20 years technical writing experience, an affinity for technology, and like to solve problems creatively.
+> I have 20 years technical writing experience, an affinity for technology, and like to solve problems creatively.
 
 == Experience
 
