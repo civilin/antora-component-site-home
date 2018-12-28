@@ -9,7 +9,7 @@ endif::[]
 
 ## page.next
 
-{{page.next}}
+{page.next}
 {{page.next}}
 {{{page.next}}}
 
@@ -28,7 +28,10 @@ endif::[]
 ## nextpage variable
 {nextpage}
 
+{page.title}
 {{page.title}}
+{{{page.title}}}
+
 {{page.module}}
 {{page.next}}
 
