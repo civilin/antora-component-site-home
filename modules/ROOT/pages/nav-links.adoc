@@ -9,15 +9,21 @@ endif::[]
 
 ## page.next
 
-{page.next}
+{{page.next}}
+{{page.next}}
+{{{page.next}}}
 
 ## page.previous
 
 {page.previous}
+{{page.previous}}
+{{{page.previous}}}
 
 ## page.parent
 
 {page.parent}
+{{page.parent}}
+{{{page.parent}}}
 
 ## nextpage variable
 {nextpage}
