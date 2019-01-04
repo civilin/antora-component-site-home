@@ -7,6 +7,15 @@ endif::[]
 :idseparator: -
 :nextpage: {page.next}
 
+
+++++
+<meta class="swiftype" name="title" data-type="string" content="{{page.next}}">
+<meta class="swiftype" name="title" data-type="string" content="{{page.previous}}">
+<meta class="swiftype" name="title" data-type="string" content="{{page.parent}}">
+<meta class="swiftype" name="title" data-type="string" content="{{page.title}}">
+<meta class="swiftype" name="title" data-type="string" content="{{page.module}}">
+++++
+
 ## page.next
 
 {page.next}
