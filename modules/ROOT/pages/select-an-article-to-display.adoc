@@ -1,7 +1,6 @@
 = Select an article to display
 
-For background information, select an article to read from the drop list. +
- +
+For background information, select an article to read from the drop list.
 ++++
 <form action="../">
 <select onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
