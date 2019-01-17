@@ -5,7 +5,7 @@ For background information, select an article to read from the drop list.
 <form action="../">
 <select onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
   <option>Choose an article</option>
-  <option value="https://matthewsetter.com/why-antora-is-the-leading-technical-writing-platform/">Why Antora Is The Leading Technical Writing Platform</option>
+  <option value="https://docs.antora.org/antora/2.0/navigation/filenames-and-locations/">Navigation File Names and Storage Locations</option>
   <option value="http://discuss.asciidoctor.org/Announcing-Antora-td6049.html">Announcing Antora</option>
   <option value="https://docs.antora.org/antora/2.0/">Antora 2.0 Docs</option>
   <option value="https://matthewsetter.com/antoras-three-core-concepts/">The Three Core Antora Concepts You Need To Know To Use It Fully</option>
