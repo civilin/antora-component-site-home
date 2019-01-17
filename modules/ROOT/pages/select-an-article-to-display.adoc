@@ -1,4 +1,4 @@
-= Select an
-article to display
+= Select an article to display
 
-Adapt code sample to implement a drop list that loads an external article in an iframe. Use this to provide background information about various topics.
+For background information, select an article to read from the drop list. +
+ +
