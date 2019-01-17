@@ -15,6 +15,6 @@ For background information, select an article to read from the drop list.
 </select>
 </form>
 <br>
-<iframe src="https://neveruntilnow.com/antora/jamstack/latest/index.html" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
+<iframe src="" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
 
 ++++
