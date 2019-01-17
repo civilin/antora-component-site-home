@@ -5,16 +5,11 @@ For background information, select an article to read from the drop list.
 <form action="../">
 <select onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
   <option>Choose an article</option>
-  <option value="https://neveruntilnow.com/antora/jamstack/latest/asciidoc/why-asciidoc-is-better-than-markdown.html">Why AsciiDoc is better for technical writing</option>
+  <option value="https://matthewsetter.com/why-antora-is-the-leading-technical-writing-platform/">Why Antora Is The Leading Technical Writing Platform</option>
+  <option value="http://discuss.asciidoctor.org/Announcing-Antora-td6049.html">Announcing Antora</option>
+  <option value="https://docs.antora.org/antora/2.0/">Antora 2.0 Docs</option>
   <option value="">Title</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid03-full.flv">Vid03</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid04-full.flv">Vid04</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid05-full.flv">Vid05</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid06-full.flv">Vid06</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid07-full.flv">Vid07</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid08-full.flv">Vid08</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid09-full.flv">Vid09</option>
-  <option value="http://www.mydomain.net/collaborate/page.html?file=Vid10-full.flv">Vid10</option>
+  <option value="">Title</option>
 </select>
 </form>
 <br>
