@@ -62,7 +62,7 @@ endif::[]
 }
 
 /* Style the counter cards */
-.cardORG {
+.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   text-align: center;
@@ -76,25 +76,6 @@ endif::[]
     display: block;
     margin-bottom: 20px;
   }
-}
-
-.card {
-  position: relative;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  min-width: 0;
-  word-wrap: break-word;
-  background-color: #fff;
-  background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
-  /* Special styling for 2nd level landing page cards */
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  padding: 16px;
-  text-align: left;
-  background-color: #f1f1f1;
 }
 </style>
 ++++
