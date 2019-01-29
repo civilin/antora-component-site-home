@@ -40,29 +40,29 @@ Second-level cards correspond to a section of related articles in the TOC. Link 
     </div>
     <br>
     <div class="card-deck">
-        <div class="card">
+        <div class="card" onclick="location.href='../../cooking/latest/index.html';" style="cursor: pointer;">
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">Title 2</h3>
+                <h3 class="card-title">Cooking</h3>
                 <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/green-hands.png" alt="Card image cap"> -->
                 <hr>
-                <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum.</p>
+                <p class="card-text">Recipes for the Instant Pot pressure cooker.</p>
             </div>
         </div>
-        <div class="card">
+          <div class="card" onclick="location.href='../../survival-list/latest/index.html';" style="cursor: pointer;">
             <div class="card-body">
-                <h3 class="card-title">Title 3</h3>
+                <h3 class="card-title">The Survival List</h3>
                 <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/screen-cap.png" alt="Card image cap"> -->
                 <hr>
-                <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.</p>
+                <p class="card-text">Essential items to have on hand, before you need them.</p>
             </div>
         </div>
-        <div class="card">
+      <div class="card" onclick="location.href='../../junk-drawer/latest/index.html';" style="cursor: pointer;">
             <!-- <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">Title 4</h3>
+                <h3 class="card-title">Junk Drawer</h3>
                 <hr>
-                <p class="card-text">Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                <p class="card-text">Blog posts and assorted stuff I feel obliged to host somewhere.</p>
             </div>
         </div>
     </div>
