@@ -9,7 +9,6 @@
 ** xref:junk-drawer:ROOT:index.adoc[Junk Drawer]
 * Page prototypes
 ** xref:ROOT:landing-page.adoc[Landing Page Example]
-** xref:ROOT:landing-page-equal-height-cards.adoc[Cards of Equal Height]
 ** xref:ROOT:nav-links.adoc[Test Navigation Links]
 ** xref:ROOT:tabs.adoc[Tabs Example]
 ** xref:select-an-article-to-display.adoc[Select an article to display]
