@@ -29,12 +29,12 @@ Second-level cards correspond to a section of related articles in the TOC. Link 
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
-        <div class="card">
+        <div class="card" onclick="location.href='../../writing/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/green-hands.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">A Longer Title</h3>
+                <h3 class="card-title">Writing</h3>
                 <hr>
-                <p class="card-text">Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+                <p class="card-text">Thoughts about writing craft, and applying Scrivener to writing projects.</p>
             </div>
         </div>
     </div>
