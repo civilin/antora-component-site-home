@@ -20,12 +20,12 @@ Second-level cards correspond to a section of related articles in the TOC. Link 
               </div>
         </div>
 
-        <div class="card">
+        <div class="card" onclick="location.href='../../permaculture/latest/index.html';" style="cursor: pointer;">
             <!-- <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap"> -->
             <div class="card-body">
-                <h3 class="card-title">Antora</h3>
+                <h3 class="card-title">Permaculture</h3>
                 <hr>
-                <p class="card-text">Use Antora to generate a website from AsciiDoc files.</p>
+                <p class="card-text">Using permaculture, we can feed humans and wildlife, while restoring the Earth's fertility and natural abundance.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
         </div>
