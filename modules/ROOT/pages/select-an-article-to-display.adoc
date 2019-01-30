@@ -23,6 +23,7 @@ For background information, select an article to read from the drop list.
   -->
 </select>&nbsp;&nbsp;<button onclick="window.open(this.options[this.selectedIndex].value,'_blank');">Open in new window</button>
 </form>
+<button onclick="window.open("https://neveruntilnow.com",'_blank');">Open in new window</button>
 <br>
 <iframe src="" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
 ++++
