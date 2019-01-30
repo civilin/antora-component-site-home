@@ -35,6 +35,7 @@ For background information, select an article to read from the drop list.
 -->
 <script>
 function myFunction() {
+  window.alert("function running");
   var urlmenu = document.getElementById( 'menu1' );
   alert urlmenu;
   window.open( this.options[ this.selectedIndex ].value );
