@@ -3,7 +3,7 @@
 For background information, select an article to read from the drop list.
 ++++
 
-<form action="../">&nbsp;&nbsp;<button onclick="myFunction()">Click Me</button>
+<form action="../">
 <select onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
   <option>Choose an article</option>
   <option value="https://cobwwweb.com/wtf-is-jamstack">WTF is JAMstack?</option>
@@ -22,7 +22,7 @@ For background information, select an article to read from the drop list.
   <option value="">Title</option>
   -->
 </select>
-</form>
+</form>&nbsp;&nbsp;<button onclick="myFunction()">Open in new window</button>
 <br>
 <iframe src="" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
 <script>
