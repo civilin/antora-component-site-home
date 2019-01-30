@@ -23,22 +23,6 @@ For background information, select an article to read from the drop list.
   -->
 </select>
 </form>
-<button onclick="myFunction()">Click me</button>
 <br>
 <iframe src="" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
-<!--
-<script type="text/javascript">
- var urlmenu = document.getElementById( 'menu1' );
- urlmenu.onchange = function() {
-      window.open( this.options[ this.selectedIndex ].value );
- };
--->
-<script>
-function myFunction() {
-  window.alert("function running");
-  var urlmenu = document.getElementById( 'menu1' );
-  alert urlmenu;
-  window.open( this.options[ this.selectedIndex ].value );
-}
-</script>
 ++++
