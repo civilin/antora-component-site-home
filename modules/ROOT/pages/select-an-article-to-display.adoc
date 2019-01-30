@@ -7,6 +7,7 @@ For background information, select an article to read from the drop list.
 <select onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
   <option>Choose an article</option>
   <option value="https://cobwwweb.com/wtf-is-jamstack">WTF is JAMstack?</option>
+  <option value="https://snipcart.com/blog/jamstack">New to JAMstack? Everything You Need to Know to Get Started</option>
   <option value="http://discuss.asciidoctor.org/Announcing-Antora-td6049.html">Announcing Antora</option>
   <option value="https://docs.antora.org/antora/2.0/">Antora 2.0 Docs</option>
   <option value="https://docs.antora.org/antora/2.0/navigation/filenames-and-locations/">Navigation File Names and Storage Locations</option>
@@ -19,9 +20,8 @@ For background information, select an article to read from the drop list.
   <option value="">Title</option>
   <option value="">Title</option>
   <option value="">Title</option>
-  <option value="">Title</option>
   -->
-</select><!--   &nbsp;&nbsp;<button onclick="window.open(this.options[this.selectedIndex].value,'_blank');">Open in new window</button> -->
+</select>
 </form>
 <br>
 <iframe src="" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
