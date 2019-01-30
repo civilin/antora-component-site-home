@@ -27,7 +27,8 @@ For background information, select an article to read from the drop list.
 <iframe src="" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
 <script>
 function myFunction() {
-  document.getElementById("demo").innerHTML = "Hello World";
+  // document.getElementById("demo").innerHTML = "Hello World";
+  window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;
 }
 </script>
 ++++
