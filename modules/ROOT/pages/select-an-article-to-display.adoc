@@ -6,10 +6,20 @@ For background information, select an article to read from the drop list.
 <select onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
   <option>Choose an article</option>
   <option value="https://cobwwweb.com/wtf-is-jamstack">WTF is JAMstack?</option>
-  <option value="https://docs.antora.org/antora/2.0/navigation/filenames-and-locations/">Navigation File Names and Storage Locations</option>
   <option value="http://discuss.asciidoctor.org/Announcing-Antora-td6049.html">Announcing Antora</option>
   <option value="https://docs.antora.org/antora/2.0/">Antora 2.0 Docs</option>
+  <option value="https://docs.antora.org/antora/2.0/navigation/filenames-and-locations/">Navigation File Names and Storage Locations</option>
+  <option value="https://docs.antora.org/antora-ui-default/stylesheets/">Work with the CSS Stylesheets :: Antora Docs</option>
+  <option value="https://www.html5rocks.com/tutorials/security/sandboxed-iframes/">Play safely in sandboxed IFrames</option>
+  <!--
   <option value="">Title</option>
+  <option value="">Title</option>
+  <option value="">Title</option>
+  <option value="">Title</option>
+  <option value="">Title</option>
+  <option value="">Title</option>
+  <option value="">Title</option>
+  -->
 </select>
 </form>
 <br>
