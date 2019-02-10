@@ -141,7 +141,8 @@ endif::[]
   padding-bottom: 15px;
 
   /* color: #191919; */
-  color: red;
+  color: #f54029;
+  font-size: 1rem;
   font-weight: normal;
   line-height: 1.3;
   margin: 1rem 0 0;
