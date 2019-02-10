@@ -6,7 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-== Home
+= Home
 ++++
   <!-- <div class="container"> -->
     <div class="card-deck">
