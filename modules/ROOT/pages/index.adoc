@@ -20,7 +20,7 @@ endif::[]
         <div class="card" onclick="location.href='../../permaculture/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/sustainable-living.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Permaculture</h3>
+                <p class="card-title">Permaculture</p>
                 <p class="card-text">Using permaculture, we can feed humans and wildlife, while restoring the Earth's fertility and natural abundance.</p>
                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
@@ -28,7 +28,7 @@ endif::[]
         <div class="card" onclick="location.href='../../writing/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/writing.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Writing</h3>
+                <p class="card-title">Writing</p>
                 <p class="card-text">Thoughts about writing craft, and applying Scrivener to writing projects.</p>
             </div>
         </div>
@@ -38,21 +38,21 @@ endif::[]
         <div class="card" onclick="location.href='../../cooking/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="../../site-home/latest/_images/recipes.png" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Cooking</h3>
+                <p class="card-title">Cooking</p>
                 <p class="card-text">Recipes for the Instant Pot pressure cooker.</p>
             </div>
         </div>
         <div class="card" onclick="location.href='../../survival-list/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">The Survival List</h3>
+                <p class="card-title">The Survival List</p>
                 <p class="card-text">Essential items to have on hand, before you need them.</p>
             </div>
         </div>
         <div class="card" onclick="location.href='../../junk-drawer/latest/index.html';" style="cursor: pointer;">
             <img class="card-img-top img-fluid" src="https://picsum.photos/500/200" alt="Card image cap">
             <div class="card-body">
-                <h3 class="card-title">Junk Drawer</h3>
+                <p class="card-title">Junk Drawer</p>
                 <p class="card-text">Blog posts and assorted stuff I feel obliged to host somewhere.</p>
             </div>
         </div>
