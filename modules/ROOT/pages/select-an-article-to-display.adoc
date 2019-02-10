@@ -4,7 +4,7 @@ For background information, select an article to read from the drop list.
 ++++
 
 <form action="../">
-<select name="menu1" id="menu1" onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
+<select id="menu1" onchange="window.open(this.options[this.selectedIndex].value,'targetIFRAME');this.selectedIndex=0;">
   <option>Choose an article</option>
   <option value="https://cobwwweb.com/wtf-is-jamstack">WTF is JAMstack?</option>
   <option value="https://snipcart.com/blog/jamstack">New to JAMstack? Everything You Need to Know to Get Started</option>
@@ -22,7 +22,6 @@ For background information, select an article to read from the drop list.
   <option value="">Title</option>
   -->
 </select>
-</form>
 <br>
 <iframe src="" name="targetIFRAME" id="targetIFRAME" frameborder="0" height="1200" width="100%">You need a Frames Capable browser to view this content.</iframe>
 ++++
