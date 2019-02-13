@@ -1,6 +1,7 @@
 = Couchbase Tabs Extension Example
+:tabs:name: value
 
-This page shows how to implement tab pages using the tabs-block.js extension at https://github.com/couchbase/docs-site/blob/master/lib/tabs-block.js. It extends the AsciiDoc syntax to support a tabset. The tabset is created from a definition list enclosed in an example block that is marked with the tabs style.
+This page shows how to implement tab pages using the tabs-block.js extension at https://github.com/couchbase/docs-site/blob/master/lib/tabs-block.js. It extends the AsciiDoc syntax to support a tabset. The tabset is created from a definition list enclosed in an example block that is marked with the tabs style. For instructions, see https://docs.couchbase.com/home/contribute/tabs.html.
 
  [tabs]
  ====
@@ -8,7 +9,7 @@ This page shows how to implement tab pages using the tabs-block.js extension at 
  +
  --
  Contents of tab A.
- 
+
  .a bulleted list
  * one
  * two
@@ -25,3 +26,25 @@ This page shows how to implement tab pages using the tabs-block.js extension at 
  . three
  --
  ====
+
+== Test
+
+[{tabs}]
+====
+Tab 1 Title::
++
+
+This is the content of the first tab.
+
+Another paragraph in the first tab.
+
+[source,console]
+----
+$ a code block
+----
+--
+
+Tab 2 Title::
++
+This is the content of the second tab.
+====
