@@ -39,6 +39,7 @@ a line between
 ====
 Tab 1 Title::
 +
+--
 
 This is the content of the first tab.
 
@@ -52,6 +53,7 @@ $ a code block
 
 Tab 2 Title::
 +
+--
 This is the content of the second tab.
 ====
 
