@@ -14,8 +14,6 @@ Tab A::
 --
 Contents of tab A.
 
-.a bulleted list
-
 * one
 * two
 * three
@@ -26,7 +24,6 @@ Tab B::
 --
 Contents of tab B.
 
-.a numbered list
 . one
 . two
 . three
