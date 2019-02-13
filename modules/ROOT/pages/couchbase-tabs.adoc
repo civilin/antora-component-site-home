@@ -7,7 +7,7 @@ It extends the AsciiDoc syntax to support a tabset. The tabset is created from a
 
 For instructions, see https://docs.couchbase.com/home/contribute/tabs.html.
 
-[tabs]
+[{tabs}]
 ====
 Tab A::
 +
