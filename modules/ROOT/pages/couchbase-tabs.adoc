@@ -58,7 +58,7 @@ This is the content of the second tab.
 ====
 
 ++++
-<style>
+<styleX>
 .doc .tabs ul {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
