@@ -270,6 +270,7 @@ endif::[]
   margin-bottom: 15px;
 }
 
+
 @media (min-width: 576px) {
   .card-group {
     -ms-flex-flow: row wrap;
@@ -336,6 +337,7 @@ endif::[]
   margin-bottom: 0.75rem;
 }
 
+/*
 @media (min-width: 576px) {
   .card-columns {
     -webkit-column-count: 3;
@@ -352,6 +354,7 @@ endif::[]
     width: 100%;
   }
 }
+*/
 
 .accordion .card:not(:first-of-type):not(:last-of-type) {
   border-bottom: 0;
