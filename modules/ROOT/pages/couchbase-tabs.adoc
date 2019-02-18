@@ -61,6 +61,7 @@ This is the content of the second tab.
 
 ++++
 <style>
+/*
 .doc .tabs ul {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
@@ -126,5 +127,6 @@ This is the content of the second tab.
 .doc .tab-pane>:first-child {
     margin-top: 0
 }
+*/
 </style>
 ++++
