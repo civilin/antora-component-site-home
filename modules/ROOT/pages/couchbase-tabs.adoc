@@ -79,10 +79,10 @@ This is the content of the second tab.
 
 == What I did to implement this
 
-. I copied 'tabs-block.js' from the couchbase website.
-. I added an entry for 'tabs-block.js' to my playbook:
+. I copied *tabs-block.js* from the couchbase website.
+. I added an entry for *tabs-block.js* to my playbook:
 . I downloaded Dan Allen's tabs-block extension. For some reason, behavior.js and extension.js throw errors when added to the extensions seciton of my playbook, so I commented those out.
-. I copied Dan Allen's 'styles.css' to the source/css folder in my experimental UI bundle.
-. I appended @import '"styles.css";' to site.css.
+. I copied Dan Allen's *styles.css* to the source/css folder in my experimental UI bundle.
+. I appended @import *"styles.css";* to site.css.
 . I packed the ui bundle.
 . Generated the site.
