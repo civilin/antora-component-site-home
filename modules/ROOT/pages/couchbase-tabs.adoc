@@ -7,6 +7,24 @@ It extends the AsciiDoc syntax to support a tabset. The tabset is created from a
 
 For instructions, see https://docs.couchbase.com/home/contribute/tabs.html.
 
+== Dan Allen's example
+From https://twitter.com/i/web/status/1046666053449728000
+or https://threadreaderapp.com/thread/1046666053449728000.html
+
+[tabs]
+====
+Tab A::
++
+--
+Tab A contents
+--
+Tab B::
++
+--
+Tab B contents
+--
+====
+
 == Test 1
 
 [{tabs}]
