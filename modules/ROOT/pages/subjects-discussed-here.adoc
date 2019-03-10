@@ -7,7 +7,7 @@ endif::[]
 :idseparator: -
 
 
-This website discusses a variety of unrelated subjects. Each subject has its own table of contents. To view articles about a different subject, click the *Home* icon or make a selection from the *Subjects* menu. Then use the table of contents to select articles that interest you.
+This website discusses unrelated subjects, ranging from cooking to web design. Each subject has its own table of contents. To view articles about a different subject, click the *Home* icon or make a selection from the *Subjects* menu. Then use the table of contents to select articles that interest you.
 
 xref:jamstack:ROOT:index.adoc[JAMstack]:: Information about web design, markup languages, and static site generators I have used. Sub-categories include docs-as-code, AsciiDoc, MarkDown, Antora, Jekyll, Hugo, web-based multimedia, and prototype web pages.
 
