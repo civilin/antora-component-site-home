@@ -10,6 +10,6 @@ This site organizes subject matter in the following modules:
 
 
 
-xref:jamstack:ROOT:index.adoc[JAMstack]:: The *JAMstack* section contains information about web design, markup languages, and static site generators that I have used.
+xref:jamstack:ROOT:index.adoc[JAMstack]:: Information about web design, markup languages, and static site generators I have used.
 
-Permaculture:: Permaculture discusses sustainable practices that feed humans and wildlife, while restoring the Earth's fertility and natural abundance.
+xref:permaculture:ROOT:index.adoc[Permaculture]:: Sustainable practices that feed humans and wildlife, while restoring the Earth's fertility and natural abundance.
