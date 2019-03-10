@@ -8,6 +8,8 @@ endif::[]
 
 This site organizes subject matter in the following modules:
 
-https://../../jamstack/latest/index.html[JAMstack]:: The *JAMstack* section contains information about web design, markup languages, and static site generators that I have used.
+
+
+xref:jamstack:ROOT:index.adoc[JAMstack]:: The *JAMstack* section contains information about web design, markup languages, and static site generators that I have used.
 
 Permaculture:: Permaculture discusses sustainable practices that feed humans and wildlife, while restoring the Earth's fertility and natural abundance.
