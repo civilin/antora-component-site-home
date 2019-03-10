@@ -9,7 +9,6 @@
 ** xref:junk-drawer:ROOT:index.adoc[Junk Drawer]
 * Page prototypes
 ** xref:ROOT:nav-links.adoc[Test Navigation Links]
-** xref:ROOT:couchbase-tabs.adoc[Couchbase Tabs Extension Example]
 ** xref:select-an-article-to-display.adoc[Select an article to display]
 ** xref:second-level-cards-test.adoc[Second level cards - Test]
 ** xref:home-page-cards-test.adoc[Home page Cards - Test]
