@@ -19,4 +19,4 @@ xref:cooking:ROOT:index.adoc[Cooking]:: My recipe collection, especially recipes
 
 xref:survival-list:ROOT:index.adoc[The Survival List]:: Essential items to have on hand before you need them.
 
-xref:junk-drawer:ROOT:index.adoc[The Junk Drawer]:: Blog posts and assorted stuff I feel obliged to host somewhere.
+xref:junk-drawer:ROOT:index.adoc[Junk Drawer]:: Blog posts and assorted stuff I feel obliged to host somewhere.
