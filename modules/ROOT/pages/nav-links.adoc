@@ -10,7 +10,7 @@ endif::[]
 
 ++++
 <head>
-<meta class="swiftype" name="title" data-type="string" content="{{page.next}}">
+<meta class="swiftype" name="title" data-type="string" content="{{page.next.url}}">
 <meta class="swiftype" name="title" data-type="string" content="{{page.previous}}">
 <meta class="swiftype" name="title" data-type="string" content="{{page.parent}}">
 <meta class="swiftype" name="title" data-type="string" content="{{page.title}}">
