@@ -1,4 +1,4 @@
-= The Subjects discussed here
+= Subjects discussed here
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
@@ -6,9 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-This site organizes subject matter in the following modules:
-
-
+This website organizes subject matter in the general categories listed below. Each subject has its own table of contents.
 
 xref:jamstack:ROOT:index.adoc[JAMstack]:: Information about web design, markup languages, and static site generators I have used.
 

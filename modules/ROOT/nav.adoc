@@ -1,6 +1,6 @@
 * xref:ROOT:index.adoc[Home]
 ** xref:ROOT:what-this-site-is-about.adoc[What this site is about]
-** xref:ROOT:subjects-discussed-here.adoc[The Subjects discussed here]
+* xref:ROOT:subjects-discussed-here.adoc[Subjects discussed here]
 ** xref:jamstack:ROOT:index.adoc[JAMstack]
 ** xref:cooking:ROOT:index.adoc[Cooking]
 ** xref:permaculture:ROOT:index.adoc[Permaculture]
