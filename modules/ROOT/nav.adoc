@@ -8,7 +8,7 @@
 ** xref:survival-list:ROOT:index.adoc[Survival List]
 ** xref:junk-drawer:ROOT:index.adoc[Junk Drawer]
 * Page prototypes
-** xref:ROOT:landing-page.adoc[Landing Page Example]
+//** xref:ROOT:landing-page.adoc[Landing Page Example]
 ** xref:ROOT:nav-links.adoc[Test Navigation Links]
 ** xref:ROOT:tabs.adoc[Tabs Example]
 ** xref:ROOT:couchbase-tabs.adoc[Couchbase Tabs Extension Example]
