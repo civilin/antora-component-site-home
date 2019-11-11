@@ -150,6 +150,10 @@ endif::[]
   margin-bottom: 0;
 }
 
+.card-text {
+  font-size: 10px;
+}
+
 .card-text:last-child {
   margin-bottom: 0;
 }
