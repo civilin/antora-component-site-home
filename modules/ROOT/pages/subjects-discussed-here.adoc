@@ -1,0 +1,22 @@
+= Subjects discussed here
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+
+This website discusses unrelated subjects, ranging from cooking to web design. Each subject has its own table of contents. To view articles about a different subject, click the *Home* icon or make a selection from the *Subjects* menu. Then use the table of contents to select articles that interest you.
+
+xref:jamstack:ROOT:index.adoc[JAMstack]:: Information about web design, markup languages, and static site generators I have used. Sub-categories include docs-as-code, AsciiDoc, MarkDown, Antora, Jekyll, Hugo, web-based multimedia, and prototype web pages.
+
+xref:permaculture:ROOT:index.adoc[Permaculture]:: Sustainable practices that feed humans and wildlife, while restoring the Earth's fertility and natural abundance.
+
+xref:writing:ROOT:index.adoc[Writing]:: Thoughts about writing craft, and applying Scrivener to writing projects.
+
+xref:cooking:ROOT:index.adoc[Cooking]:: My recipe collection, especially recipes for the Instant Pot pressure cooker.
+
+xref:survival-list:ROOT:index.adoc[The Survival List]:: Essential items to have on hand before you need them.
+
+xref:junk-drawer:ROOT:index.adoc[Junk Drawer]:: Blog posts and assorted stuff I feel obliged to host somewhere.

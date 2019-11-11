@@ -1,15 +1,9 @@
 * xref:ROOT:index.adoc[Home]
 ** xref:ROOT:what-this-site-is-about.adoc[What this site is about]
-* Subjects discussed here
+* xref:ROOT:subjects-discussed-here.adoc[Subjects discussed here]
 ** xref:jamstack:ROOT:index.adoc[JAMstack]
 ** xref:cooking:ROOT:index.adoc[Cooking]
 ** xref:permaculture:ROOT:index.adoc[Permaculture]
 ** xref:writing:ROOT:index.adoc[Writing]
 ** xref:survival-list:ROOT:index.adoc[Survival List]
 ** xref:junk-drawer:ROOT:index.adoc[Junk Drawer]
-* Page prototypes
-** xref:ROOT:landing-page.adoc[Landing Page Example]
-** xref:ROOT:landing-page-equal-height-cards.adoc[Cards of Equal Height]
-** xref:ROOT:nav-links.adoc[Test Navigation Links]
-** xref:ROOT:tabs.adoc[Tabs Example]
-** xref:second-level-cards-test.adoc[Second level cards - Test]
