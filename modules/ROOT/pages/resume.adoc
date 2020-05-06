@@ -6,7 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-> I offer 20 years technical writing experience with affinity for high technology. I solve problems creatively.
+> I offer affinity for high technology with 20+ years technical writing experience, to solve problems creatively.
 
 == Experience
 
