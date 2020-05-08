@@ -139,9 +139,6 @@ endif::[]
   margin-bottom: 0.75rem;
   text-align: center;
   padding-bottom: 15px;
-  /* color: #191919; */
-  /* color: #f54029; */
-  /* font-weight: bold; */
 }
 
 .h3 {
@@ -150,11 +147,6 @@ endif::[]
 
 .card-subtitle {
   margin-top: -0.375rem;
-  margin-bottom: 0;
-}
-
-.card-text {
-  /* font-size: 10px; */
   margin-bottom: 0;
 }
 
@@ -380,7 +372,6 @@ endif::[]
 
 }
 </style>
-
 ++++
 // Bootstrap 4 Cards of Equal Height
 //This landing page uses Bootstrap 4 to display cards of equal height. Cards in each row grow to the height of the tallest card.
