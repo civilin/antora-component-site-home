@@ -139,6 +139,8 @@ endif::[]
   margin-bottom: 0.75rem;
   text-align: center;
   padding-bottom: 15px;
+  /* color: #f54029; */
+  font-weight: bold;
 }
 
 .h3 {
