@@ -154,7 +154,8 @@ endif::[]
 }
 
 .card-text {
-  font-size: 10px;
+  /* font-size: 10px; */
+  margin-bottom: 0;
 }
 
 .card-text:last-child {
