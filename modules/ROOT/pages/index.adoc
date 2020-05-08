@@ -140,8 +140,8 @@ endif::[]
   text-align: center;
   padding-bottom: 15px;
   /* color: #191919; */
-  color: #f54029;
-  font-weight: bold;
+  /* color: #f54029; */
+  /* font-weight: bold; */
 }
 
 .h3 {
